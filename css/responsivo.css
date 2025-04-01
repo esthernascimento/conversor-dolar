@@ -1,0 +1,41 @@
+@media screen and (max-width: 600px) {
+    .container {
+        width: calc(100% - 20px);
+        padding: 10px;
+        margin: 0 auto;
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        min-height: 100vh;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+
+    input, button {
+        font-size: 14px;
+    }
+
+    .resultado {
+        font-size: 14px;
+    }
+
+
+    footer {
+        flex-direction: column; /* Alinha os elementos em uma coluna */
+        text-align: center; /* Centraliza o texto */
+        padding: 15px; /* Ajusta o espaçamento interno */
+    }
+
+    footer .btn-social {
+        flex-direction: row;
+        gap: 15px;
+    }
+
+    footer .btn-social button {
+        width: 50px;
+        height: 50px;
+        font-size: 20px;
+    }
+}
