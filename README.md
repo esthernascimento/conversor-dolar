@@ -21,7 +21,7 @@ Digite o valor em dólares no campo de entrada
 Clique no botão "Converter" para ver o valor em reais
 
 📸 Demonstração
-<img src="./gifConversor.gif" width="600">
+<img src="./gif/gifConversor.gif" width="600">
 🔗 Acesse o Projeto
 
 
